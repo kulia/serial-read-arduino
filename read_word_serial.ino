@@ -12,7 +12,7 @@ void setup() {
 
 void loop() {
     receive_string();
-    Serial.print("String Recived: ");
+    Serial.print("String received: ");
     Serial.println(inData);
 }
 
