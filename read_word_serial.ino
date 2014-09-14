@@ -1,5 +1,3 @@
-#define SIZE(x) (sizeof(x) / sizeof(x[0]))
-
 const int max_string_length = 100;
 char inData[max_string_length]; 
 
